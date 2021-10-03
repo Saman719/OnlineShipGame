@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031105203743",
+    "project_id": "online-destroy-game",
+    "storage_bucket": "online-destroy-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031105203743:android:25d56dbedc57c4fc8b4f2a",
+        "android_client_info": {
+          "package_name": "com.example.online_hidden_ship_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031105203743-hna1ss7p6lbknc8ov0sjn42opsvgc5sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJdplNwGKI3a9y5dKHX02KUJg-0oMnNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031105203743-hna1ss7p6lbknc8ov0sjn42opsvgc5sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
